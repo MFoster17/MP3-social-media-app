@@ -33,8 +33,6 @@ Tweets and Interactions:  Access the tweet composer to write, edit, and delete t
 
 Follow/Unfollow Users:  Explore and follow users to view their tweets in your feed.
 
-Real-time Feed Updates:  Experience real-time updates in your feed as users you follow post new tweets.
-
 Search Functionality:  Utilize the search feature to discover and interact with different users and their content.
 
 ## Key Features
